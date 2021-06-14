@@ -1,0 +1,9 @@
+Employee Name : Diganto
+Address: 25/1 3rd lane 
+State : dhaka 
+City : Motijheel
+Email Address: diganto1999@gmail.com
+Phone NO.: 01521203296
+Date Of Birth : 25 Jun 1999
+Gender : Male
+Department : IT
